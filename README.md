@@ -1,3 +1,6 @@
+This was originally part of a zipfile I provided reaching out to WLMouse hence the style of writing.
+Figured the data could still be interesting and as far as I know this minor issue is still currently relevant as of 4/20/2026.
+
 ## Anomaly
 Testing displays very clear reproduceable trends in changes of sensor data depending on buttons held whilst measuring.
 No pneumatic rig was used - testing done by hand which will poison absolute values but there seems to be a trend present that could be indicative of a larger problem.
