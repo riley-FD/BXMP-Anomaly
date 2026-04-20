@@ -26,13 +26,11 @@ WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - 
 WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held  
 
 ### Methodology
-All tests performed on a fully isolated xHCI usb controller after a fresh boot.
-8k Receiver EMI Shielded within a copper insulated grounded Faraday cage to minimize interference.
-Ultraglide Ice were used on a SP-004 with bare ESD strapped arms to prevent ESD muddying up the reported data.
-Each initial test was isolated and the pad was wiped down with a Windex/water solution to minimize triboelectric buildup.
-Sensor data measured at 95-100% battery level.
-Firmware used:
+All tests performed on a fully isolated xHCI usb controller after a fresh boot.  
+8k Receiver EMI Shielded within a copper insulated grounded Faraday cage to minimize interference.  
+Ultraglide Ice were used on a SP-004 with bare ESD strapped arms to prevent ESD muddying up the reported data.  
+Each initial test was isolated and the pad was wiped down with a Windex/water solution to minimize triboelectric buildup.  
+Sensor data measured at 95-100% battery level.  
+Firmware used:  
 	- 8k reciever: 1.0.2.7
 	- Mouse: 1.0.2.7
-
-Hope this helps - feel free to contact me at RileyF.dev@protonmail.com
