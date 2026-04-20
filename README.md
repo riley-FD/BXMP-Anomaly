@@ -1,5 +1,9 @@
-This was originally part of a zipfile I provided reaching out to WLMouse hence the style of writing.
-Figured the data could still be interesting and as far as I know this minor issue is still currently relevant as of 4/20/2026.
+This was originally part of a zipfile provided over email to WLMouse hence the odd style of writing.  
+Figured the data could still be interesting and as far as I know this minor issue is still currently relevant as of 4/20/2026.  
+
+# TL;DR  
+Stumbled across differences in reported sensor values based on buttons held, fully suspecting it to be a minor issue related to analog switch power draw or a unit defect I dug a bit further.  
+Testing from two additional units (analog and mechanical) seem to point to some minor firmware issue instead.  
 
 ## Anomaly
 Testing displays very clear reproduceable trends in changes of sensor data depending on buttons held whilst measuring.
