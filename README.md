@@ -17,13 +17,13 @@ WLMouse Beast X Mini Omron Optical (unit 2) - SapphireOS 25H2 - 8Khz High Speed 
 WLMouse Beast X Mini Omron Optical (unit 2) - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held
 
 ### TTC Nihil unit (Pre and Post update)
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - No Buttons Held 1.0.2.7R-1.0.2.3M
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1 Held 1.0.2.7R-1.0.2.3M
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held 1.0.2.7R-1.0.2.3M
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - No Buttons Held 1.0.2.7R-1.0.2.3M  
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1 Held 1.0.2.7R-1.0.2.3M  
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held 1.0.2.7R-1.0.2.3M  
 
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - No Buttons Held
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1 Held
-WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - No Buttons Held  
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1 Held  
+WLMouse Beast X Mini TTC Nihil - SapphireOS 25H2 - 8Khz High Speed Turbo Mode - Mouse 1+2 Held  
 
 ### Methodology
 All tests performed on a fully isolated xHCI usb controller after a fresh boot.
